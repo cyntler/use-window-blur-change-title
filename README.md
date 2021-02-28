@@ -1,5 +1,5 @@
-[![npm-version](https://img.shields.io/npm/v/use-window-blur-change-title.svg)](https://www.npmjs.com/package/parcel-plugin-shebang)
-[![npm-download](https://img.shields.io/npm/dt/use-window-blur-change-title.svg)](https://www.npmjs.com/package/parcel-plugin-shebang)
+[![npm-version](https://img.shields.io/npm/v/use-window-blur-change-title.svg)](https://www.npmjs.com/package/use-window-blur-change-title)
+[![npm-download](https://img.shields.io/npm/dt/use-window-blur-change-title.svg)](https://www.npmjs.com/package/use-window-blur-change-title)
 
 # use-window-blur-change-title
 
