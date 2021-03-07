@@ -1,6 +1,6 @@
 {
   "name": "use-window-blur-change-title",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Hook for set the page title when the user is shifting focus away from the current window.",
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
     "lint": "eslint ./ --ext=tsx,ts",
     "prettier": "prettier --check 'src/**/*.{ts,tsx}'",
     "test": "jest",
-    "prepublish": "npm run lint && npm run prettier && npm run test && npm run build"
+    "prepublishOnly": "npm run lint && npm run prettier && npm run test && npm run build"
   },
   "dependencies": {
     "@types/react": "^17.0.3",
