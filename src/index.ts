@@ -1,7 +1,3 @@
-/**
- * @name use-window-blur-change-title
- * @author cyntler <damian@cyntler.com>
- */
 import { useEffect, useRef } from 'react';
 
 const setTitle = (title: string) => {

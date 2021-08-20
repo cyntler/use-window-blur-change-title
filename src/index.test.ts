@@ -1,7 +1,3 @@
-/**
- * @name use-window-blur-change-title
- * @author cyntler <damian@cyntler.com>
- */
 import { renderHook } from '@testing-library/react-hooks';
 import { fireEvent } from '@testing-library/react';
 import { useWindowBlurChangeTitle } from './index';
