@@ -26,7 +26,7 @@
     "prettier": "prettier --check 'src/**/*.{ts,tsx}'",
     "test": "jest",
     "prepublishOnly": "npm run lint && npm run prettier && npm run test && npm run build",
-    "release": "npm version patch && git push && git push --tags && npm publish"
+    "release": "npm i && git push && npm version patch && git push && git push --tags && npm publish"
   },
   "dependencies": {
     "@types/react": "^17.0.3",
