@@ -1,6 +1,6 @@
 {
   "name": "use-window-blur-change-title",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React Hook for set the page title when the user is shifting focus away from the current window.",
   "keywords": [
     "react",
