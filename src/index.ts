@@ -30,5 +30,5 @@ export const useWindowBlurChangeTitle = (titleWhenBlur: string) => {
       window.removeEventListener('blur', handleWindowBlur);
       window.removeEventListener('focus', handleWindowFocus);
     };
-  }, []);
+  }, [titleWhenBlur]);
 };
